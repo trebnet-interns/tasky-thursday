@@ -1,0 +1,6 @@
+favourgodson54@gmail.com
+YAGNI meaning "You Ain't Gonna Need It,"is a principle in software development that
+     advises developers not to add stuff they dont really need until they actually do.
+With this I think It's all about not overcomplicating things by only building features that's 
+     necessary right now and avoiding future guesswork leading to more efficient development, 
+     as it reduces unnecessary work and complexity.
