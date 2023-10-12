@@ -1,1 +1,2 @@
 emmanuelletsu18@gmail.com
+The YAGNI principle is a pragmatic approach that emphasizes delivering what is necessary now, maintaining simplicity, and being open to change as requirements evolve.
