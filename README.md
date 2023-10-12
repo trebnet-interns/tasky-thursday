@@ -7,7 +7,7 @@ task 4 on git
 ## Instruction
 - Fork this repo
 - create a branch with your fullname (spaces denoted with an underscore _ )
-- create a text file called with your fullname and initialize it with your email address
+- create a text file called with your fullname and initialize it with your email address and what you think about the "YAGNI" principle
 - push your branch and open a PR.
 - a link to today's meeting will be sent to your mail after your PR is receivedest a review.
 
