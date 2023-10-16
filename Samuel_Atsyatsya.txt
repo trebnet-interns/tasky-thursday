@@ -1,0 +1,1 @@
+atsyatsya1@gmail.com YAGNI principle ('You Aren't Gonna Need It') is a practice in software development which states that features should only be added when required 
