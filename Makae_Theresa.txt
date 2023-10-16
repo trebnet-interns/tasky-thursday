@@ -1,0 +1,4 @@
+Email: mamathes001@gmail.com
+The YAGNI (You Aren't Gonna Need It) principle is a guideline for software development
+that advises programmers not to introduce features, functionality, or code that is not urgently required for meeting project requirements. 
+In essence, it encourages software development that is straightforward and minimal. 
