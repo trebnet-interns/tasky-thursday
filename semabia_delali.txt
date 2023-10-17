@@ -1,0 +1,3 @@
+email: dherlali888@gmail.com
+
+a useful idea in software development is the YAGNI principle. it serves as a reminder to refrain from over-complicating and over-featureing a project. to create a more effective and manageable codebase, we should instead concentrate on developing only the features that are currently necessary.
