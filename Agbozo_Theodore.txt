@@ -1,2 +1,0 @@
-theodoreagbozo87@gmail.com
-The YAGNI principle is an agile software development concept that advises developers to avoid adding functionality or features to a software product until they are absolutely necessary. In other words, it encourages simplicity and minimalism in code and design. Same as KISS!!!
