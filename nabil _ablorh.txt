@@ -1,5 +1,0 @@
-Full Name: Nabil Ablorh
-Email: nabilablorh@gmails.com
-
-Thoughts on YAGNI:
-The YAGNI principle is a valuable concept in software development. It reminds us to avoid adding unnecessary complexity and features to a project. Instead, we should focus on implementing only the features that are currently required, which leads to a more efficient and maintainable codebase.
